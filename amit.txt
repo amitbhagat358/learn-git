@@ -1,4 +1,1 @@
-hello there
-
-how are you? // new-branch
-// some more changes
+This is the updated new brach
